@@ -1,0 +1,35 @@
+SponsorAppURL = http://54.153.61.70:9000
+SiteAppURL = http://54.153.61.70:9002
+PatientAppURL = http://54.153.61.70:9004
+
+user = testid
+password = password@Hash1
+
+user1 = test
+password1 = password@Hash1
+
+siteUser = judy
+sitePwd = testID@00
+
+userSiteValue = JFK
+
+site = JFK Medical Center
+sponsor =  University of Kansas Medical Center
+
+selectStudy = Measuring Brain Amyloid Plaque Load in Older Adults Using BAY 94-9172
+
+inclusion = Age is 50 Years. Alzhimers disease.  Treatment with macrolide. 
+exclusion = BMI < 21. Having fish food allergy.
+
+entityType =Medical Condition
+entityType2 =Drug
+entityType3 =Lab
+entityType4 = Allergy
+
+criteria = inclusion
+ConditionName = Dementia
+drugName = warfarin 
+strengthValue = 2 milligrams (mg) 
+dosageValue = daily for 3-6 months
+testName = CBC
+AllergyName = 
